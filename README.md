@@ -121,7 +121,7 @@ DURN	                                calculate DURN(Daily Utilized Room Nights).
 ![TOTAL NO SHOW BOOKINGS](https://github.com/user-attachments/assets/6e0b923f-cde1-4acd-b2dd-0b035a95ef15)
 
 
-```NO SHOW RATE %````
+```NO SHOW RATE %```
 
 ![NO_SHOW_PERCENT](https://github.com/user-attachments/assets/dacb42b0-279e-445b-a04d-13e548888b4e)
 
