@@ -58,7 +58,7 @@ Realisation %	                        Calculate  the realisation percentage.It i
 
 RevPAR	                              Calculate the RevPAR(Revenue Per Available Room)
                                       RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue 
-                                       generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
+                                      generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
 
 DBRN	                                calculate DBRN(Daily Booked Room Nights).This metrics tells on average how many rooms are booked for a day considering a time period
 
