@@ -137,7 +137,8 @@ DURN	                                calculate DURN(Daily Utilized Room Nights).
 
 ``` ADR ```
 
-![ADR](https://github.com/user-attachments/assets/8bfb2ae1-2d86-4fcc-b00f-8056ac5cf1ba)
+![ADR](https://github.com/user-attachments/assets/4e7b405d-8007-4528-b29c-6bdb572a53bd)
+
 
 
 ``` REVPAR ```
