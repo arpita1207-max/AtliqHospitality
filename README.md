@@ -179,6 +179,7 @@ DURN	                                calculate DURN(Daily Utilized Room Nights).
 ![REALIZATION WOW CHANGE %](https://github.com/user-attachments/assets/a3ee693d-da57-4b33-9db9-875deeec5423)
 
 ``` [ADR WOW CHANGE % ```
+
 ![ADR WOW CHANGE %](https://github.com/user-attachments/assets/5d8a86b0-5bc4-4a7f-ad2b-a43540d29d69)
 
 
