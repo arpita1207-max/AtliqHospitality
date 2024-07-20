@@ -69,32 +69,78 @@ Realisation %	                        calculate DSRN(Daily Sellable Room Nights)
 DURN	                                calculate DURN(Daily Utilized Room Nights).This metric tells on average how many rooms are succesfully utilized by customers for a day 
                                       considering a time period.
 
-
+```
 ```REVENUE```
 ![revenue](https://github.com/user-attachments/assets/0a3779b9-38fe-4810-9c00-5ac92657bee4)
 
 ```TOTAL BOOKINGS ```
+![TOTAL_BOOKINGS](https://github.com/user-attachments/assets/3830c63f-ce2c-4a36-8b3c-63bbee4516fe)
 
 
 ```TOTAL CAPACITY ```
+![TOTAL_CAPACITY](https://github.com/user-attachments/assets/ebe5d8a5-2b4a-43f3-9a66-666dfb7868d6)
+
 
 ```TOTAL SUCCESSFUL BOOKINGS```
+![TOTAL_SUCCESSFUL_BOOKINGS](https://github.com/user-attachments/assets/2d39d7f3-2e6f-4f69-93ea-0c0e8ac4bd3b)
 
 ```OCCUPANCY % ```
+![OCCUPANCY_PERCENT](https://github.com/user-attachments/assets/7f42d100-27d3-4186-9fc0-4125ef1ad32c)
+
 
 ```AVERAGE RATING ```
+![AVERAGE_RATING](https://github.com/user-attachments/assets/9dc98933-ea29-478f-b355-f54d857e1f30)
+
 
 ```NO OF DAYS```
+![NO_OF_DAYS](https://github.com/user-attachments/assets/d050ce4c-5046-4c02-ab12-f1f9006a48b1)
+
 
 ```TOTAL CANCELLED BOOKINGS ```
+![TOTAL_CANCELLED_BOOKINGS](https://github.com/user-attachments/assets/81a1c5dc-0ad0-4948-a637-775db124a69e)
 
 ```CANCELLATION % ```
+![CANCELLATION_PERCENT](https://github.com/user-attachments/assets/3424f788-33ac-40c1-a4e5-5f3ba21aece3)
+
 
 ```TOTAL CHECKED OUT ```
+![TOTAL_CHECKED_OUT](https://github.com/user-attachments/assets/b0cd0d71-0bf0-4f20-861d-47f291d455d2)
 
 ```TOTAL NO SHOW BOOKINGS```
+![TOTAL NO SHOW BOOKINGS](https://github.com/user-attachments/assets/6e0b923f-cde1-4acd-b2dd-0b035a95ef15)
+
 
 ```NO SHOW RATE %````
+![NO_SHOW_PERCENT](https://github.com/user-attachments/assets/dacb42b0-279e-445b-a04d-13e548888b4e)
+
+
+``` BOOKING PERCENT BY ROOM CLASS ```
+![BOOKING PERCENT BY ROOM CLASS](https://github.com/user-attachments/assets/02d608d6-8052-4388-b9b0-dd0ef32fefc9)
+
+``` BOOKING PERCENT BY PLATFORM ```
+![BOOKING PERCENT BY PLATFORM](https://github.com/user-attachments/assets/758ee279-5795-4f99-aa9c-3d02741eccb2)
+
+
+``` ADR ```
+![ADR](https://github.com/user-attachments/assets/8bfb2ae1-2d86-4fcc-b00f-8056ac5cf1ba)
+
+
+``` REVPAR ```
+![REVPAR](https://github.com/user-attachments/assets/76e61f13-af69-4b06-8d1d-2f967f3f56c0)
+
+``` REALIZATION_PERCENT ```
+![REALIZATION_PERCENT](https://github.com/user-attachments/assets/aa2ac00e-bd20-43da-98ae-2cd1fb0bd44b)
+
+
+``` DBRN ```
+![DBRN](https://github.com/user-attachments/assets/4c8e3e18-bccf-4df7-adbd-aa78b22b5fae)
+
+``` DSRN```
+![DSRN](https://github.com/user-attachments/assets/3ae9fa77-e40e-4e43-9b1f-361b60c5130e)
+
+``` DURN ```
+![DURN](https://github.com/user-attachments/assets/45135358-be49-4c38-960a-5d8130991997)
+
 
 
 
