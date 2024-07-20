@@ -206,8 +206,8 @@ Metrics Performance OverTime
 
 ```
 Bussiness Insights
-
-
+More booking on Q2 since summer holidays are there.
+Elite and Standard Rooms are booked more.
 
 
 ```
