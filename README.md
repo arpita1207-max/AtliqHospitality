@@ -66,7 +66,37 @@ DBRN	                                calculate DBRN(Daily Booked Room Nights).Th
 Realisation %	                        calculate DSRN(Daily Sellable Room Nights).This metrics tells on average how many rooms are ready to sell for a day considering a time period
 
 
-DURN	                                calculate DURN(Daily Utilized Room Nights).This metric tells on average how many rooms are succesfully utilized by customers for a day considering a time period
+DURN	                                calculate DURN(Daily Utilized Room Nights).This metric tells on average how many rooms are succesfully utilized by customers for a day 
+                                      considering a time period.
+
+
+```REVENUE```
+![revenue](https://github.com/user-attachments/assets/0a3779b9-38fe-4810-9c00-5ac92657bee4)
+
+```TOTAL BOOKINGS ```
+
+
+```TOTAL CAPACITY ```
+
+```TOTAL SUCCESSFUL BOOKINGS```
+
+```OCCUPANCY % ```
+
+```AVERAGE RATING ```
+
+```NO OF DAYS```
+
+```TOTAL CANCELLED BOOKINGS ```
+
+```CANCELLATION % ```
+
+```TOTAL CHECKED OUT ```
+
+```TOTAL NO SHOW BOOKINGS```
+
+```NO SHOW RATE %````
+
+
 
 
 
