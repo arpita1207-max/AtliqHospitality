@@ -162,6 +162,24 @@ DURN	                                calculate DURN(Daily Utilized Room Nights).
 
 ![DURN](https://github.com/user-attachments/assets/45135358-be49-4c38-960a-5d8130991997)
 
+```OCCUPANCY WOW CHANGE %```
+
+![OCCUPANCY WOW CHANGE %](https://github.com/user-attachments/assets/8d87ec7f-e13a-4ecf-877f-f75b49e2f0a3)
+
+```REVENUE WOW CHANGE % ```
+
+![REVENUE WOW CHANGE %](https://github.com/user-attachments/assets/a848685b-fb95-4a91-8355-e224673d67d6)
+
+``` REVPAR WOW CHANGE % ```
+
+![REVPAR WOW CHANGE %](https://github.com/user-attachments/assets/34d42ef4-187c-4a30-9c8a-8cd76e61c6f7)
+
+``` REALIZATION WOW CHANGE % ```
+
+![REALIZATION WOW CHANGE %](https://github.com/user-attachments/assets/a3ee693d-da57-4b33-9db9-875deeec5423)
+
+``` [ADR WOW CHANGE % ```
+![ADR WOW CHANGE %](https://github.com/user-attachments/assets/5d8a86b0-5bc4-4a7f-ad2b-a43540d29d69)
 
 
 
