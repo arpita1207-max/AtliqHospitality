@@ -95,7 +95,8 @@ DURN	                                calculate DURN(Daily Utilized Room Nights).
 
 ```AVERAGE RATING ```
 
-![AVERAGE_RATING](https://github.com/user-attachments/assets/9dc98933-ea29-478f-b355-f54d857e1f30)
+![AVERAGE_RATING](https://github.com/user-attachments/assets/12c39e3c-11b6-431a-9551-71a34b6c97ea)
+
 
 
 ```NO OF DAYS```
