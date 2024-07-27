@@ -194,15 +194,12 @@ AtliqHospitality Report
 
 
 
-````
+
+
+Atliq Hospitality Dashboard
 ````
 
-````
-````
-
-````
-Metrics Performance OverTime
-````
+![Atliq Hospitality Screenshot](https://github.com/user-attachments/assets/07131d6a-ea73-4f18-89fa-0a210da833f9)
 
 
 ```
