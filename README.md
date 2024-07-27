@@ -187,9 +187,9 @@ DURN	                                calculate DURN(Daily Utilized Room Nights).
 
 
 
-
+```
 AtliqHospitality Report
-````
+```
 ```Semantic Model ```
 
 ![Semantic Model-Hospitality](https://github.com/user-attachments/assets/8cc27394-916f-4b37-92ae-4839ac0c021f)
